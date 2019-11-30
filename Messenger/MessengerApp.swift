@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  MessengerApp.swift
 //  Messenger
 //
 //  Created by ANDY on 11/30/19.
@@ -9,7 +9,7 @@
 import UIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class MessengerApp: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
